@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-j8a332.koi888.xyz/sitemap.xml
